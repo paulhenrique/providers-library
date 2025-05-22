@@ -1,0 +1,30 @@
+{
+  "name": "providers-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "source": "src/index.ts",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build",
+    "docs": "docsify serve docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tanstack/react-query": "^5.76.2",
+    "axios": "^1.9.0",
+    "parcel": "^2.15.1",
+    "pino": "^9.7.0",
+    "pino-pretty": "^11.0.0",
+    "react": "^19.1.0"
+  },
+  "devDependencies": {
+    "@parcel/packager-ts": "2.15.1",
+    "@parcel/transformer-typescript-types": "2.15.1",
+    "docsify": "^4.13.1",
+    "typescript": ">=3.0.0"
+  }
+}
