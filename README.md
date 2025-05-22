@@ -4,7 +4,7 @@ Biblioteca de providers React com serviços de API e logging.
 
 ## Documentação
 
-Acesse a documentação completa em: [http://localhost:3000](http://localhost:3000)
+Acesse a documentação completa em: [https://paulhenrique.github.io/providers-library/#/](https://paulhenrique.github.io/providers-library/#/)
 
 ## Instalação
 
